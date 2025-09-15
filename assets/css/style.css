@@ -110,15 +110,15 @@
 }
 
 .wave1 path {
-  fill: #F6F6F6; /* colore onda */
+  fill: #F6F6F6; 
 }
 
 .wave2 {
-  transform: scaleY(-1); /* ribalta verticalmente */
+  transform: scaleY(-1); 
 }
 
   .wave2 path {
-    fill: #F6F6F6; /* colore onda */
+    fill: #F6F6F6; 
   }
 
   .section1 h1,
